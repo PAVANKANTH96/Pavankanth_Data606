@@ -78,6 +78,7 @@ Share the report, code, and any relevant resources with stakeholders, collaborat
 
 # References:
 [1] https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
 [2] https://github.com/codebasics/potato-disease-classification/blob/main/training/potato-disease-classification-model.ipynb
 
 

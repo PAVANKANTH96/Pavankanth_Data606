@@ -4,13 +4,13 @@
 
 # Project Title: Potato Disease Classification
 
-## Introduction
+# Introduction
 The Potato Disease Classification Capstone Project aims to develop an intelligent system that can automatically classify different diseases affecting potato plants. By leveraging the power of machine learning and computer vision techniques, this project aims to create a reliable and efficient tool for potato farmers, agronomists, and researchers.
 
 The proposed system will utilize a dataset comprising images of healthy potato plants, as well as those infected with various diseases such as late blight, early blight, blackleg, and many others. These images will serve as the foundation for training a deep learning model capable of recognizing and distinguishing between different potato diseases based on visual patterns and symptoms.
 The benefits of an accurate disease classification system are multifold. Firstly, it enables farmers to identify diseases at an early stage, allowing for timely intervention and targeted treatment strategies. This can help minimize yield losses, reduce the need for chemical inputs, and enhance overall crop health. Additionally, the system can provide valuable insights to researchers and agronomists, aiding in the study of disease epidemiology, monitoring disease trends, and facilitating the development of more effective disease management strategies.
 
-## Project Overview.
+# Project Overview.
 Throughout the project, advanced deep learning algorithms, such as convolutional neural networks (CNNs), will be employed to extract high-level features from the input images. The trained model will be optimized to achieve high accuracy and robustness in disease classification, even when dealing with real-world variations in image quality, lighting conditions, and plant growth stages.
 Overall, the Potato Disease Classification Capstone Project is a vital initiative that brings together the power of artificial intelligence and agriculture to address one of the key challenges faced by potato growers. Through accurate and efficient disease identification, this project can significantly enhance the productivity and sustainability of potato farming, making a positive impact on both economic and food supply aspects of the potato industry.
 
